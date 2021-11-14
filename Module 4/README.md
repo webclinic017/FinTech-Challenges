@@ -7,7 +7,7 @@ In this repository, I will evaluate `Berkshire Hathaway`, `Paulson & CO`, `Tiger
 4. Risk-Return: Via Sharpe Ratios
 ---
 ## Analysis at a glance
-**IF YOU HAVE DARK THEME TURNED ON IN YOUR BROWER, PLEASE TURN IT OFF SO YOU CAN SEE THE X & Y AXIS LABELS :)**
+**If you have dark theme turned ON in your browser, please turn it OFF so you can see the X & Y axis labels :)**
 ### Performance
 ![cum_prod](./Resources/cum_prod.png)
 ### Risk
