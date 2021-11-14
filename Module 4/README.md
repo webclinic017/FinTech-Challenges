@@ -13,5 +13,6 @@ In this repository, I will evaluate `Berkshire Hathaway`, `Paulson & CO`, `Tiger
 ![std](./Resources/stds.png)
 ### Risk-Return
 ![sharpe](./Resources/sharpe.png)
+### Bars in order: Paulson, Soros, Tiger, Berkshire, S&P 500
 ### Supplementary Student Analysis
-![all_betas](all_betas.png)
+![all_betas](./Resources/all_betas.png)
