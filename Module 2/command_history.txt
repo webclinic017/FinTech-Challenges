@@ -1,0 +1,13 @@
+git init
+git add .
+git commit -m "Init commit"
+git remote add origin git@github.com:SpaceFrostDev/FinTech-Challenges.git
+git remote -v
+git push origin master
+# I proceeded to code and intermittently check the following commands
+git status
+git add <applicable file>
+git commit -m <Applicable commit message like, Changed save_csv()'s deliminter to \n>
+git push origin master
+# I considered doing the following although I decided best to leave them in the repo
+git update-index --assume-unchanged <path/to/csv_files>
