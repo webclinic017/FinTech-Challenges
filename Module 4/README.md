@@ -16,3 +16,4 @@ In this repository, I will evaluate `Berkshire Hathaway`, `Paulson & CO`, `Tiger
 ![sharpe](./Resources/sharpe.png)
 ### Supplementary Student Analysis
 ![all_betas](./Resources/all_betas.png)
+Here, I would perform additional analysis like suggesting these portfolios take different investing strategies. Some appear extremely risk averse, more interested in return OF capital than return ON capital. So, realistically, I'd have a conversation with management about whether they wanted a portfolio that offered the highest potential returns, or one that just wasn't going to lose our investors money. One where you could just, park your money and not lose it should something catastrophic happen in the economy.
