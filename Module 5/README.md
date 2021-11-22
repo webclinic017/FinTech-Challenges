@@ -1,6 +1,7 @@
 # Module 5 Challenge
 ## APIs and Monte Carlo Simulations
 ---
+If you have dark theme enabled in your browser, please *DISABLE* it to see read the axis. :)
 ### Portfolio Visualizations
 1. `40%` Bonds and `60%` Stocks
 ---
